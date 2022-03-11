@@ -6,6 +6,10 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: SplashScreenUI(),
+      theme: ThemeData(
+        fontFamily: 'Kanit',
+        primarySwatch: Colors.amber,
+      ),
     ),
   );
 }
