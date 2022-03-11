@@ -1,4 +1,4 @@
-# flutter_app_world2
+# มหาวิทยาลัยมหาสารคาม
 
 A new Flutter project.
 
